@@ -1,4 +1,3 @@
-<!-- Banner ou apresentação -->
 <h1 align="center">👋 Olá! Eu sou o Leonardo (xinefsiamed)</h1>
 
 <p align="center">
@@ -20,8 +19,6 @@
 
 ### 🛠️ Linguagens e Frameworks
 <div>
-  <!-- Adicionar/remover ícones conforme sua stack -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -49,7 +46,7 @@
 
 ## 🌐 Onde me encontrar
 
-- ✉️ Email: **leonardoaugusto.soliveira@gmail.com*
+- ✉️ Email: **leonardoaugusto.soliveira@gmail.com**
 
 ---
 
